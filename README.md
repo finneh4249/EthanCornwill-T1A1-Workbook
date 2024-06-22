@@ -120,7 +120,7 @@ https://top10codingbootcamps.com/blog/what-is-the-difference-between-compiler-an
 - Large Community and Resources
     - Python boasts a vast and supportive community, making it easy to find help, libraries, and frameworks.
 - Versatility
-    -Python is used for data analysis, machine learning, web development, scientific computing, and more.
+    - Python is used for data analysis, machine learning, web development, scientific computing, and more.
 - Readability
     - Its clean syntax and indentation-based structure enhance code readability.
 
@@ -155,11 +155,34 @@ https://flexiple.com/compare/python-vs-javascript
 
 ## Q6 A hypothetical client has sent you an email (shown in the Q6 Email section), asking for you to build them a website. Write an appropriate, professional email response that shows your understanding of the client’s needs for the website, as well as an understanding of appropriate technologies or tools needed to build the website yourself
 
+Hi Alex,
+
+I appreciate you getting in touch with what you want for the website of the Super Awesome Museum. Finding about your varied collection and the museum's dedication to cultural enrichment excites me.
+
+I can definitely assist you in designing a website that not only highlights your exhibitions but also gives guests a simple means of exploring the museum and its resources. Interactive maps for destinations, thorough pages for every exhibit, and a contact form for questions. We could also utilise an event calendar to let guests know about upcoming shows and activities.
+
+Technical-wise, i will make sure the website is accessible on all devices using responsive design ideas, and we will apply SEO best practices to raise your search engine result visibility. We could look thorough on content management systems like WordPress, which would let your staff quickly update the website without much technical experience.
+
+Suggest a reasonable time for when you would be most likely to talk further about this project. Helping the Super Awesome Museum become more online active excites me.
+
+Warm regards,
+
+Ethan Cornwill
+Web Developer
+
+
 ---
 
 ## Q7 Think back to a scenario or situation in your own software development projects or work
->
+
 > Explain how you would do things differently if you had a chance to go through that scenario again, using an appropriate reflective cycle or reflection technique.
+
+Reflecting on the development of the PokerBo app, one scenario that stands out is the initial planning phase. 
+In retrospect, a more thorough planning process would have been more effective. This would involve pre-planning the features to include in the app, such as the betting system, and the user interface.
+If given another opportunity, I would prioritise setting up a kanban board and planning out the development of the app before beginning development. This approach ensures that the app doesn't experience scope-bloat, and the features are well planned out before development, allowing me to create the app easier.
+
+Additionally, I would incorporate user feedback into the development process. This would help me improve the app's user experience. 
+
 
 ---
 
@@ -167,13 +190,33 @@ https://flexiple.com/compare/python-vs-javascript
 
 Create an action plan that identifies several relevant networking opportunities for you to participate in or attend, and add some information about what you expect to gain or grow through each item in the action plan.
 
+1. Australian Computer Society (ACS) Events:
+    - Look into Melbourne's ACS events. IT specialists, industry professionals, and thought leaders meet for these professional development sessions and networking events. Attend conferences, workshops, and seminars to establish connections with individuals who share your interests.
+
+2. Local Meetup Groups:
+    - Participate in professional networking groups based in Melbourne on platforms such as Meetup. Looking for meetups that are tech-focused and relevant to my pursuits, including programming languages, web development, or home automation. Attend events and participate in discussions to establish connections.
+
+3. LinkedIn:
+    - Enhance my LinkedIn profile and establish connections with IT professionals in my vicinity. Reach out to potential contacts, participate in groups, and share pertinent content to engage. Join LinkedIn groups that are specific to Melbourne.
+
+4. Tech Co-working Spaces:
+    - EInvestigate co-working spaces that are designed for technology enthusiasts. Workshops, networking events, and lectures are frequently conducted in these locations. It is an excellent method for interacting with other entrepreneurs and developers.
+
+5. Volunteer Opportunities:
+    - Participate in community events, hackathons, or tech conferences as a volunteer. I am able to expand my network, interact with industry experts, and acquire experience through volunteering.
 ---
 
 ## Q9 Explain the uses of language-learning model technologies (such as ChatGPT) on written and technical works, such as reports and software projects
 
+ChatGPT and other language-learning model technologies have completely changed the way technical and literary works are approached. When it comes to report writing, these models can help with data analysis, complicated information  summary, and even section drafting, which can make things more efficient and accurate. They offer conversational interfaces for debugging, create code according to standards, as well as contributing to code documentation for software projects. By providing explanations in a user-friendly, natural-language format, these models can also help students understand programming languages and technical topics. In general, language-learning technologies are great resources for making many technical fields more accessible, efficient, and of higher quality.
+
+
 ---
 
 ## Q10 Explain the legal and ethical impacts of the usage of language-learning model technologies (such as ChatGPT) in written and technical works, such as reports and software projects
+
+When language-learning programmes like ChatGPT are used in technical and written works, they raise a lot of legal and moral questions. When these technologies are used, it can be hard for lawyers to understand intellectual property rights, especially when AI-made content is added to reports or software. Who owns the rights to writing that AI writes? That person, the client, or the AI itself? Ethics-wise, AI results might be biased, which could make already existing issues in society worse if the data used for training isn't right.
+Relying on AI to do things like write legal papers or code a piece of software could make it hard to keep it accountable. For example,  a paper written by an AI might be hard to defend in court because it might be hard to understand what the AI was thinking when it wrote it. Also, automating things that people have always done could change how jobs are made and make people worry about their future jobs. It is also important to make sure that AI works in a clear and private way and that people agree before their personal data is used to build language models. Overall, using AI to help people learn languages needs to be done in a way that is both new and follows the law and morals.
 
 ---
 
